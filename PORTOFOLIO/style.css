@@ -1,0 +1,42 @@
+
+/*ORGANIZATION*/
+
+#organisasi {
+    min-height: 300px;
+    width: 100%;
+    background-color: #27B1BE;
+    color: #FACC2E;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 80px;
+}
+
+/*organisasi*/
+#organisasi {
+    min-height: 600px;
+    width: 100%;
+    color: #fff;
+}
+
+#organisasi img {
+    width: 12%;
+    margin: 10px;
+}
+/*end organisasi*/
+
+/*galery portofolio*/
+#portofolio .container{
+    padding: 80px 10px;
+}
+
+#portofolio {
+    min-height: 300px;
+    width: 100%;
+    background-color: #27B1BE;
+    color: #fff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 80px;
+}
+
+/*end portofolio*/
